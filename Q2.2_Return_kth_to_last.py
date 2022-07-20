@@ -21,7 +21,7 @@ class Linkedlist:
             temp = temp.next
         temp.next = node
 
-    # function to remove duplicates from the linked list.
+    # function to get kth element from last.
 
     def getNthFromLast(self,n):
         lst = []
